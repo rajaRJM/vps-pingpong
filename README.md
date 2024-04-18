@@ -46,4 +46,16 @@ Berikut adalah petunjuk yang telah disusun dengan rapi untuk menjalankan Pingpon
     sudo apt install screen -y
     ```
 
+## 📌 Langkah Tambahan (Jika Diperlukan)
+
+
+- **Buat keluar screen**
+
+  ctrl a+d
+
+- **Masuk ke screen**
+    ```shell
+    screen -r pingpong
+    ```
+
 Jika Anda menemui kesalahan, jangan ragu untuk memberi tahu kami. Selamat mencoba! 👍
